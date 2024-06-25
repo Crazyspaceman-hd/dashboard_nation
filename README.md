@@ -3,7 +3,7 @@ I've been working on increasing my dashboard skills as well as learning new tech
 
 ## Excel
 **Pelotastic**
-![Screenshot here](Screenshots\pelotastic_screen.png)
+![Screenshot here](Screenshots/pelotastic_screen.png)
 This dashboard is based on user data downloaded from Peloton. 
 
 The dashboard includes interactive icons to drill down into specific disciplines, workout totals, all donut charts and the favorite instructors tree map will respond discipline selection. Interesting takeaways from the data are an increase in peloton usage around the new year, as well as the time spent in 20-30 minute workouts being very similar to the amount of time spent in 45-60 minute workouts.
