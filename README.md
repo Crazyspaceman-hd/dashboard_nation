@@ -26,7 +26,7 @@ The dashboard includes a slicers to narrow the data by year as well as options t
 ---
 ## Tableau
 **British Airways**
-[![British Airways Screen](Screenshots\British_Airways_Screen.png)](https://public.tableau.com/views/British_Airways_Dashboard_17202197917000/Dashboard1?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+[![British Airways Screen](Screenshots/British_Airways_Screen.png)](https://public.tableau.com/views/British_Airways_Dashboard_17202197917000/Dashboard1?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
 This dashboard is based on review data for British Airways.
 
